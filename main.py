@@ -1,4 +1,3 @@
-from Core.settings import BASE_DIR
 from Core.utils.csv_creator import CSVCreator
 
 
